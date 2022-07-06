@@ -12,5 +12,6 @@
   <img src ="https://img.utdstc.com/icon/bc3/e40/bc3e40f59ffdb968a6a51a9bb6e625bf2e542fe6297b7df069cccd800d0acddb:200" width="50px"/>
   <img src ="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50px"/>
   <img src ="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png" width="50px"/>
+  <img src ="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" width="50px"/>
      </p>
   </div> 
