@@ -13,5 +13,6 @@
   <img src ="https://www.netcost-security.fr/wp-content/uploads/2022/02/Android-Studio-fournit-tout-ce-dont-vous-avez-besoin-pour.png" width="50px"/>
   <img src ="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" width="50px"/>
   <img src ="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" width="50px"/>
+  <img src ="https://github.com/isocpp/logos/blob/master/cpp_logo.png" width="45px"/>
      </p>
   </div> 
